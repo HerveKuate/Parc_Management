@@ -1,0 +1,5 @@
+C:\Users\Saikyouzero\MPLABXProjects\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Parc_Management.exe.config
+C:\Users\Saikyouzero\MPLABXProjects\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Parc_Management.exe
+C:\Users\Saikyouzero\MPLABXProjects\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Parc_Management.pdb
+C:\Users\Saikyouzero\MPLABXProjects\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Parc_Management.exe
+C:\Users\Saikyouzero\MPLABXProjects\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Parc_Management.pdb

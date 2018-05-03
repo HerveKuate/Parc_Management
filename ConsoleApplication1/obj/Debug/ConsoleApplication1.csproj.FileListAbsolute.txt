@@ -1,0 +1,6 @@
+c:\users\saikyouzero\mplabxprojects\documents\visual studio 2015\Projects\Parc_Management\Parc_Management\bin\Debug\Parc_Management.exe.config
+C:\Users\Saikyouzero\MPLABXProjects\Documents\Visual Studio 2015\Projects\Parc_Management\Parc_Management\obj\Debug\Parc_Management.csprojResolveAssemblyReference.cache
+C:\Users\Saikyouzero\MPLABXProjects\Documents\Visual Studio 2015\Projects\Parc_Management\Parc_Management\bin\Debug\Parc_Management.exe
+C:\Users\Saikyouzero\MPLABXProjects\Documents\Visual Studio 2015\Projects\Parc_Management\Parc_Management\bin\Debug\Parc_Management.pdb
+C:\Users\Saikyouzero\MPLABXProjects\Documents\Visual Studio 2015\Projects\Parc_Management\Parc_Management\obj\Debug\Parc_Management.exe
+C:\Users\Saikyouzero\MPLABXProjects\Documents\Visual Studio 2015\Projects\Parc_Management\Parc_Management\obj\Debug\Parc_Management.pdb

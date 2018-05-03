@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Parc_Management.Monstre">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Monstre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Personnel">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAEAAAAACIAAAAABAIAAACAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Personnel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Sorcier">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Sorcier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Minotaures">
+    <Position X="1.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Minotaures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Vampire">
+    <Position X="1.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vampire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Loup_Garou">
+    <Position X="1.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Loup_Garou.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Zombies">
+    <Position X="1.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zombies.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Squelette">
+    <Position X="1.75" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Squelette.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Attraction">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAABAAAAAAAAAAAAAIIAgAAAAAAAgAEAAAAAAAAA=</HashCode>
+      <FileName>Attraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.RollerCoaster">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>RollerCoaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Spectacles">
+    <Position X="7.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Spectacles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Salles">
+    <Position X="10.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAACAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Salles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Boutique">
+    <Position X="7.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Boutique.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Nourriture">
+    <Position X="5.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nourriture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Barbe_a_papa">
+    <Position X="7.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Barbe_a_papa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.souvenirs">
+    <Position X="9.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>souvenirs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parc_Management.Parc">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAgAAAAAAAAAAAQAAAAAAAAAAAAAAABAAAAAQ=</HashCode>
+      <FileName>Parc.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Personnel" />
+      <Property Name="Attraction" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Parc_Management.fantome">
+    <Position X="1.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fantome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
